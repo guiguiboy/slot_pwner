@@ -1,0 +1,14 @@
+{
+    "name": "guigui/iam_pawnd",
+    "type": "project",
+    "require": {
+        "guzzlehttp/guzzle": "^6.3"
+    },
+    "authors": [
+        {
+            "name": "Guiguiboy",
+            "email": "guillaume.bretou@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
